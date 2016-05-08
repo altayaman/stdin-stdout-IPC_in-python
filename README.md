@@ -6,4 +6,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e.g. projectDemo_v2, projectDemo_v3). </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  –   demoText.txt file which has input text for both programs. </br></br>
 
-To detailed technical description refer to `Technical documentation.pdf`.
+Refer to `Technical documentation.pdf` for detailed technical description.
